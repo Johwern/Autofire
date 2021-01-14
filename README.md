@@ -2,7 +2,7 @@
 Autoit script to enable auto leftclick
 <br>
 Run the application.<br>
-Klick any key you want to use as on off switch.<br>
+Klick any key you want to use as on/off switch.<br>
 You should see a confirmation checkbox.<br>
 Close the box. <br>
 Klick the same key again.<br>
