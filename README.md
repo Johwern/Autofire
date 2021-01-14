@@ -1,5 +1,5 @@
 # Autofire<br>
-Autoit script to enable autoleft click
+Autoit script to enable auto leftclick
 <br>
 Run the application.<br>
 Klick any key you want to use as on off switch.<br>
